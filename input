@@ -1,0 +1,4 @@
+Enter number of productions: 3
+S->AA
+A->aA
+A->b
